@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Unjustifiable1
-- 👀 I’m interested in Data Analysis and Website Creation
-- 🌱 I’m currently learning Python, SQL and creating a website in Webflow
-- 💞️ I’m looking to collaborate on anything relating to Python, Web design and Data Analysis
+- 👀 I’m interested in Data Analysis and Full Stack Web Development
+- 🌱 I’m currently learning through the Microverse program
+- 💞️ I’m looking to collaborate on anything relating to Web Development and Data Analysis
 - 📫 How to reach me... redcape.intel@gmail.com
 
 <!---
