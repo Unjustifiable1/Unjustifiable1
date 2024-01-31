@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unjustifiable1
-- 👀 I’m interested in Data Analysis and Full Stack Web Development
-- 🌱 I’m currently learning through the Microverse program
+- 👀 I’m a Full Stack Web Developer and 3D Designer with experience in Data Analysis and Business Management
+- 🌱 I’m currently enriching my skills through the Microverse program
 - 💞️ I’m looking to collaborate on anything relating to Web Development and Data Analysis
 - 📫 How to reach me... redcape.intel@gmail.com
 
